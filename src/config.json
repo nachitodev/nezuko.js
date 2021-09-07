@@ -1,0 +1,9 @@
+{
+
+    "status": "Made with love from Junai",
+    "name": "Nezuko.bot",
+    "admin": "Your number.",
+    "chrome": "Enter your path to Chrome",
+    "ffmpeg": "Enter your path to ffmpeg",
+    "weather_apikey": "Enter your API Key From https://openweathermap.org/api"
+}
