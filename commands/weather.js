@@ -4,7 +4,7 @@ module.exports = {
 	
 	weather: async function(msg, request){
 		const text = msg.body.slice(6)
-		const apikey = weather_apikey;
+		const apikey = config.weather_apikey;
 		if(text){
 			const url = `https://api.openweathermap.org/data/2.5/weather?q=${text}&appid=${apikey}&lang=en&units=metric`
 			request({
