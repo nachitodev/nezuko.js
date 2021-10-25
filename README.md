@@ -77,5 +77,8 @@ $ npm start
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+## Please dont use this in production
+This code is trash, please dont use it in production.
+
 ## License
 [MIT](https://github.com/Junai22/nezuko.js/blob/main/LICENSE)
